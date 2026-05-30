@@ -35,7 +35,9 @@ for (let numero = 1; numero <= 50; numero++) {
     // entonces el número sí es primo
     if (esPrimo) {
 
-        alert("Número primo: " + numero);
+      alert("Número primo: " + numero);
+      
+      
 
     }
 

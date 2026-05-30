@@ -32,3 +32,4 @@ while (continuar) {
 
 // Mensaje final
 alert("Programa finalizado");
+
