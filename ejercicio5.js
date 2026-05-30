@@ -59,3 +59,5 @@ if (totalCompra > 100000) {
 
 // Mostramos el total final
 alert("El total a pagar es: $" + totalCompra);
+
+
