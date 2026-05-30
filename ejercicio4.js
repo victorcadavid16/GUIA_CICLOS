@@ -26,5 +26,8 @@ for (let i = 1; i <= 5; i++) {
 
         // Este bloque se ejecuta cuando la condición es falsa
         alert("El estudiante " + i + " REPRUEBA.");
+
+
+        
     }
 }

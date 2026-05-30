@@ -36,5 +36,8 @@ while (adivinado === false) {
         // Este bloque se ejecuta si el número ingresado es mayor
         // que el número secreto.
         alert("Incorrecto. El número secreto es MENOR.");
+
+
+        
     }
 }

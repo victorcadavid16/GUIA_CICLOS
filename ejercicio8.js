@@ -42,4 +42,5 @@ if (accesoPermitido === false) {
 
     // Este bloque se ejecuta cuando el acceso es denegado
     alert("Acceso denegado");
+    
 }
