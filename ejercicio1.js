@@ -37,6 +37,7 @@ for (let numero = 1; numero <= 50; numero++) {
 
       alert("Número primo: " + numero);
       
+      
 
     }
 

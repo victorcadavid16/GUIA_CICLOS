@@ -29,3 +29,4 @@ while (continuar) {
 }
 
 alert("Gracias por usar el cajero automático.");
+
